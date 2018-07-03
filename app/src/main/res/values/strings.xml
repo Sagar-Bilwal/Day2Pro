@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day2Pro</string>
+    <string name="select_file">Select File</string>
+    <string name="no_file_selected">No File Selected</string>
+    <string name="upload">Upload</string>
+    <string name="uploaded_pdf">Uploaded PDF</string>
+</resources>
